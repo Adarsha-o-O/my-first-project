@@ -1,3 +1,0 @@
-<h1>My First GitHub Project</h1>
-<p>This page is now improved 🚀</p>
-
